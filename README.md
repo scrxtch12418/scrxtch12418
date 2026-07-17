@@ -24,35 +24,7 @@ Computer Science undergraduate with hands-on experience in full-stack web develo
 # 🐍 Contribution Snake:
 ![snake gif](https://raw.githubusercontent.com/scrxtch12418/scrxtch12418/output/github-contribution-grid-snake-dark.svg)
 
-> **Setup required (one-time):** the snake above won't render until you add the workflow below to your `scrxtch12418/scrxtch12418` repo. Create `.github/workflows/snake.yml` with:
-> ```yaml
-> name: generate snake
-> on:
->   schedule:
->     - cron: "0 */6 * * *"
->   workflow_dispatch: {}
->   push:
->     branches: [ main ]
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         id: snake
->         with:
->           github_user_name: scrxtch12418
->           outputs: dist/github-contribution-grid-snake.svg?palette=github-dark
->                    dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v4
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-> Push it, let the Action run once (or trigger it manually from the Actions tab), and the animation will start showing your commit squares getting eaten by the snake.
 
----
 [![](https://komarev.com/ghpvc/?username=scrxtch12418&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
