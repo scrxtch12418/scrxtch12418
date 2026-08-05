@@ -1,33 +1,87 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=scrxtch12418&fontColor=00FF9C&fontSize=50&fontAlignY=38&animation=fadeIn&desc=step%20through%20the%20portal&descAlignY=58&descSize=18&descColor=00FF9C" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:ff0040,100:00ffea&height=200&section=header&text=scrxtch12418&fontColor=d4ff00&fontSize=50&fontAlignY=38&animation=fadeIn&desc=step%20through%20the%20portal&descAlignY=58&descSize=18&descColor=00ffea" width="100%"/>
 </p>
 
-# About Me:
-Computer Science undergraduate with hands-on experience in full-stack web development, cybersecurity, and AI/ML integration. Proficient in Python, JavaScript, and React, with practical knowledge of penetration testing, ethical hacking, LLM security, and REST API development. Actively participates in CTF competitions and red-teaming exercises.
+# 🪐 C:\SARVASVA> whoami
+> Cybersecurity enthusiast and full-stack software engineer pursuing a BE in Computer Science. Specializing in penetration testing, building security tools, and automating systems. Active in event hosting, Model United Nations, debates, choreography, and college quizzes. Wubba Lubba Dub Dub!
 
-# Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
 
-# Projects:
-| Project | Stack | Description |
-|---|---|---|
-| **OSINT Report Generator** | Node.js · Express · 10 intel modules | Full-stack recon tool with a dark-terminal UI, aggregates intel across sources into a single report |
-| **LLM Security Framework** | Python | Input validation (prompt injection detection) + output validation (sensitive data leak detection) |
-| **StockSense** | React · Node.js · MySQL · FastAPI · LSTM | Stock predictor built as a DBMS deep-dive — views, stored procedures, triggers, transactions |
-| **AI Sales Agent** | FastAPI · React · Ollama (Qwen3) · MS Graph · Zoho CRM | Agentic tool-calling loop wired into real Outlook + CRM workflows |
+# 🛠️ SYSTEM MODULES (TECH TREE)
 
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=scrxtch12418&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=scrxtch12418&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=scrxtch12418&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🗡️ CYBER & OFFENSE
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-ff0040?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-ff0040?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-ff0040?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-ff0040?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff0040?style=for-the-badge&logo=burpsuite&logoColor=white)
 
-# Contribution Snake:
-![snake gif](https://raw.githubusercontent.com/scrxtch12418/scrxtch12418/output/github-contribution-grid-snake-dark.svg)
+### 💻 LANGUAGES & CORE
+![Python](https://img.shields.io/badge/Python-d4ff00?style=for-the-badge&logo=python&logoColor=080808)
+![JavaScript](https://img.shields.io/badge/JavaScript-d4ff00?style=for-the-badge&logo=javascript&logoColor=080808)
+![Java](https://img.shields.io/badge/Java-d4ff00?style=for-the-badge&logo=openjdk&logoColor=080808)
+![C#](https://img.shields.io/badge/C%23-d4ff00?style=for-the-badge&logo=csharp&logoColor=080808)
+![C](https://img.shields.io/badge/C-d4ff00?style=for-the-badge&logo=c&logoColor=080808)
+![C++](https://img.shields.io/badge/C%2B%2B-d4ff00?style=for-the-badge&logo=cplusplus&logoColor=080808)
 
+### ⚙️ WEB & DATABASES
+![React](https://img.shields.io/badge/React-00ffea?style=for-the-badge&logo=react&logoColor=080808)
+![Next.js](https://img.shields.io/badge/Next.js-00ffea?style=for-the-badge&logo=next.js&logoColor=080808)
+![NodeJS](https://img.shields.io/badge/Node.js-00ffea?style=for-the-badge&logo=node.js&logoColor=080808)
+![FastAPI](https://img.shields.io/badge/FastAPI-00ffea?style=for-the-badge&logo=fastapi&logoColor=080808)
+![Express](https://img.shields.io/badge/Express-00ffea?style=for-the-badge&logo=express&logoColor=080808)
+![MongoDB](https://img.shields.io/badge/MongoDB-00ffea?style=for-the-badge&logo=mongodb&logoColor=080808)
+![MySQL](https://img.shields.io/badge/MySQL-00ffea?style=for-the-badge&logo=mysql&logoColor=080808)
+![Firebase](https://img.shields.io/badge/Firebase-00ffea?style=for-the-badge&logo=firebase&logoColor=080808)
 
-[![](https://komarev.com/ghpvc/?username=scrxtch12418&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎨 DESIGN & CREATIVE
+![Canva](https://img.shields.io/badge/Canva-bf00ff?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-bf00ff?style=for-the-badge&logo=figma&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Lightroom-bf00ff?style=for-the-badge&logo=adobelightroom&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-bf00ff?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+---
+
+# 🗺️ QUEST LOG (PROJECTS)
+
+| Quest | Rarity | Tech Stack | Objective |
+|---|---|---|---|
+| **LLM Security Framework** | `EPIC` 💎 | Python · Regex | Input/output validation pipelines detecting prompt injection and sensitive PII leaks. |
+| **RAT — Ethical Research** | `RARE` 🌀 | Python · Sockets | Controlled Remote Access Trojan with reverse shell capabilities, command execution, and file exfiltration threat-models. |
+| **ADHD Focus Extension** | `UNCOMMON` 🟩 | JavaScript · Chrome API | Published Chrome extension with domain blocking, task lists, and persistent storage focus timers. |
+| **Stuck in Space** | `RARE` 🌀 | Godot · GDScript | Retro space-farming survival game developed for the GMTK GameJam. |
+| **AI Sales Agent** | `EPIC` 💎 | FastAPI · Ollama · Python | Local AI agent integrating custom tool-calling, CRM sync, and automated email pipelines. |
+
+> [!TIP]
+> *"Wubba Lubba Dub Dub! Make sure to take the side quests; they have the most interesting code."*
+
+---
+
+# 📊 DIAGNOSTICS (STATS)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=scrxtch12418&title_color=00ffea&icon_color=ff0040&text_color=f5f0e8&bg_color=080808&border_color=d4ff00&show_icons=true&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=scrxtch12418&background=080808&border=d4ff00&stroke=ff0040&ring=00ffea&fire=ff6200&currStreakNum=00ffea&currStreakLabel=f5f0e8&sideNums=f5f0e8&sideLabels=f5f0e8&dates=bf00ff" height="150"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=scrxtch12418&title_color=00ffea&icon_color=ff0040&text_color=f5f0e8&bg_color=080808&border_color=d4ff00&layout=compact" height="150"/>
+</p>
+
+---
+
+# 🐍 PORTAL ACTIVITY (CONTRIBUTION SNAKE)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/scrxtch12418/scrxtch12418/output/github-contribution-grid-snake-dark.svg" width="60%"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=scrxtch12418&label=PORTAL%20VISITS&color=00ffea&style=flat-square" alt="Portal Visits"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffea,50:302b63,100:ff0040&height=120&section=footer&animation=fadeIn" width="100%"/>
 </p>
