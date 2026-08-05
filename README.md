@@ -3,7 +3,7 @@
 </p>
 
 # C:\SARVASVA> whoami
-> Cybersecurity enthusiast and full-stack software engineer pursuing a BE in Computer Science. Specializing in penetration testing, building security tools, and automating systems. Active in event hosting, Model United Nations, debates, choreography, and college quizzes. Wubba Lubba Dub Dub!
+> Cybersecurity enthusiast and full-stack software engineer pursuing a BE in Computer Science. Specializing in penetration testing, building security tools, and automating systems. Active in event hosting, Model United Nations, debates, and college quizzes.
 
 ---
 
@@ -47,15 +47,9 @@
 | Quest | Rarity | Tech Stack | Objective |
 |---|---|---|---|
 | **LLM Security Framework** | `EPIC` | Python · Regex | Input/output validation pipelines detecting prompt injection and sensitive PII leaks. |
-| **RAT — Ethical Research** | `RARE` | Python · Sockets | Controlled Remote Access Trojan with reverse shell capabilities, command execution, and file exfiltration threat-models. |
 | **ADHD Focus Extension** | `UNCOMMON` | JavaScript · Chrome API | Published Chrome extension with domain blocking, task lists, and persistent storage focus timers. |
 | **Stuck in Space** | `RARE` | Godot · GDScript | Retro space-farming survival game developed for the GMTK GameJam. |
 | **AI Sales Agent** | `EPIC` | FastAPI · Ollama · Python | Local AI agent integrating custom tool-calling, CRM sync, and automated email pipelines. |
-
-> [!TIP]
-> *"Wubba Lubba Dub Dub! Make sure to take the side quests; they have the most interesting code."*
-
----
 
 # DIAGNOSTICS (STATS)
 
